@@ -1,0 +1,31 @@
+Hello 
+we are My little library team
+
+Common problems:
+1\please before you open the work make sure you "import" the "database" file call "mylittlelibrary1.sql" with the same name.
+
+2\please make sure you use the "xampp" localhost to run the project. 
+
+
+if you face any another problem contact with us via the email "mylittlelibraryteam@gmail.com" and our team will respond to you as soon as possible. 
+
+
+Thank you...
+
+#########################################################
+مرحباً
+نحنُ فريق المكتبه الصغيره 
+
+المشاكل الشائعة:
+
+1\من فضلك عند فك ضغط ملف قواعد البيانات المرفق مع البرنامج ان يتم تشغيله بنفس الاسم 
+"mylittlelibrary1.sql"
+
+2\من فضلك استخدم برنامج "مضيف محلي " لتشغيل البرنامج 
+"xampp" localhost
+
+عند مواجهت اي مشاكل اخره تواصل معنا عبر الايميل 
+"mylittlelibraryteam@gmail.com"
+فريق العمل سيتواصل معك لحل المشكله في اقرب وقت ممكن.
+
+شكراً لك...
